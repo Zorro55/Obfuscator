@@ -1,0 +1,9 @@
+c:\users\andrejka\source\repos\dotfuscatorproject\dotfuscatorproject\bin\Debug\dotfuscatorproject.exe.config
+c:\users\andrejka\source\repos\dotfuscatorproject\dotfuscatorproject\bin\Debug\dotfuscatorproject.exe
+c:\users\andrejka\source\repos\dotfuscatorproject\dotfuscatorproject\bin\Debug\dotfuscatorproject.pdb
+c:\users\andrejka\source\repos\dotfuscatorproject\dotfuscatorproject\obj\Debug\dotfuscatorproject.csprojResolveAssemblyReference.cache
+c:\users\andrejka\source\repos\dotfuscatorproject\dotfuscatorproject\obj\Debug\dotfuscatorproject.csproj.CoreCompileInputs.cache
+c:\users\andrejka\source\repos\dotfuscatorproject\dotfuscatorproject\obj\Debug\dotfuscatorproject.exe
+c:\users\andrejka\source\repos\dotfuscatorproject\dotfuscatorproject\obj\Debug\dotfuscatorproject.pdb
+C:\Users\Andrejka\source\repos\dotfuscatorproject\dotfuscatorproject\bin\Debug\Wax.dll
+C:\Users\Andrejka\source\repos\dotfuscatorproject\dotfuscatorproject\bin\Debug\Wax.xml
